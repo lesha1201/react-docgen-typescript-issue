@@ -1,0 +1,21 @@
+{
+  "name": "docgen-ts-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.8.12",
+    "@types/react-dom": "^16.8.3",
+    "react-docgen-typescript": "^1.12.3",
+    "typescript": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
